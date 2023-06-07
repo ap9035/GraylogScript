@@ -1,0 +1,3 @@
+message:bbbaaaccc,prefix=bbb,suffix=ccc,expected=aa,UID='A128356'
+message:bbbaaaccc,suffix=ccc,expected=aaa,prefix=bbb,tid=1234
+message:hidden,tid=1234
